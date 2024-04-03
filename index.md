@@ -9,6 +9,7 @@ Here you can see the screenshots that took place in setting up this repository
 ![Git Clone](screenshots/Screenshot%202024-04-03%20120815.png)
 ![Change Directory](screenshots/Screenshot%202024-04-03%20121035.png)
 ![Branch Set Up](screenshots/Screenshot%202024-04-03%20121225.png)
+![Making readme](screenshots/Screenshot%202024-04-03%20141611.png)
 ![Adding Readme](screenshots/Screenshot%202024-04-03%20121330.png)
 ![Committing](screenshots/Screenshot%202024-04-03%20121408.png)
 ![Pushing](screenshots/Screenshot%202024-04-03%20123416.png)
