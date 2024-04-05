@@ -17,9 +17,11 @@ Here you can see the screenshots that took place in setting up this repository
 
 ## Important Aspects for this Assignment
 
-As always, it is important to follow the advice that many in CSE at UCSD always here
+As always, it is important to follow the advice that many in CSE at UCSD always say here
 
 > Start early, start often!
+> 
+> ~~Stay up until 5am!~~
 
 Some of the commands that were crucial to this process were the following:
 ```
